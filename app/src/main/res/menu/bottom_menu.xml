@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/dashBoard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/reportBtn"
+        android:icon="@drawable/report_icon"
+        android:title="Report"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/subjectBtn"
+        android:icon="@drawable/subject_icon"
+        android:title="Subject"
+        app:showAsAction="always"
+        />
+</menu>
